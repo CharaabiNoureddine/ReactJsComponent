@@ -1,4 +1,4 @@
-# PizzaBotManager
+# ReactToStart
 Sample app for the React MVA
 
 ## Dependencies:
