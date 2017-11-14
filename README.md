@@ -1,2 +1,22 @@
-# ReactJsComponent
-Project in which you manipulate the react component.  The main work was done by Microsoft Virtual Academy (MVA).  I just only to write part of project and optimize some features
+# PizzaBotManager
+Sample app for the React MVA
+
+## Dependencies:
+* React
+* Babel
+* Webpack
+
+## How to Run Debug Server
+
+Make sure you have the Webpack dev server installed: 
+
+> npm install -g webpack webpack-dev-server
+
+## To Add Visual Studio Code Intellisense
+
+Run typings to install the React/JSX typings.
+
+```
+npm install -g typings
+typings install --ambient react-global
+```
